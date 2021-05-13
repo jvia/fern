@@ -1,4 +1,4 @@
-(defproject io.gamayun/fern "0.1.7"
+(defproject io.gamayun/fern "0.1.8-SNAPSHOT"
   :description  "Plain but useful language for data"
   :url          "https://github.com/cognitect-labs/fern"
   :license      {:name "Eclipse Public License"
